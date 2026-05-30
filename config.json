@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpetch",
+        "uuid": 12664656,
+        "checksum": "gt49w"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
